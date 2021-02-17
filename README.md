@@ -19,7 +19,7 @@ https://colab.research.google.com/drive/1FJN3ZmOT72TjlqnYlY5t_gJdXHrnD-sv
 
 REPOS:
 
-APP: https://github.com/mapo-lp/obj_detection_android
+APP: https://github.com/cololaborde/app_obj_detection
 
 IMAGENES: https://github.com/mapo-lp/obj_det_plantas
 
