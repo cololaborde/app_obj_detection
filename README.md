@@ -1,4 +1,4 @@
-# Tesis - Deteccion de enfermedades y plagas usando TensorFlow
+# Deteccion de enfermedades y plagas usando TensorFlow
 
 COLABS:
 
