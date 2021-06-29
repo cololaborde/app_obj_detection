@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tesis</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="pause">PAUSAR</string>
+    <string name="resume">RESUMIR</string>
+    <string name="download">DESCARGAR</string>
+    <string name="model_not_found">Modelo de Machine Learning no encontrado</string>
+    <string name="permission_camera_denied">Debes aceptar el permiso de Camara</string>
+    <string name="update">ACTUALIZAR MODELO</string>
+</resources>
