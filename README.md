@@ -16,6 +16,6 @@ https://github.com/cololaborde/notebooks/blob/master/generate_model.ipynb
 
 REPOS:
 
-APP: https://github.com/mapo-lp/obj_detection_android
+APP: https://github.com/cololaborde/app_obj_detection
 
 DATASET: https://github.com/cololaborde/obj_det_plantas
