@@ -18,6 +18,4 @@ REPOS:
 
 APP: https://github.com/mapo-lp/obj_detection_android
 
-IMAGES: https://github.com/mapo-lp/obj_det_plantas
-
-RECORDS: https://github.com/mapo-lp/obj_det_plantas_aug
+DATASET: https://github.com/cololaborde/obj_det_plantas
