@@ -2,9 +2,9 @@
 
 COLABS:
 
-1. Dataset increase and tfrecord generate
+1. Augmentation and generate tfrecords
 
-https://github.com/cololaborde/notebooks/blob/master/dataset_increase.ipynb
+https://github.com/cololaborde/notebooks/blob/master/augmentation.ipynb
 
 2. Training
 
